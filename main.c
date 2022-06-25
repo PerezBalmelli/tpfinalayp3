@@ -4,7 +4,7 @@
 #include <time.h>
 #include "gestionAlumnos.h"
 
-
+//ESTO ES UNA PRUEBA
 // - - - FUNCIONES PARA LOG - - -
 
 /*
